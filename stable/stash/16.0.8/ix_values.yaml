@@ -1,6 +1,6 @@
 image:
   repository: stashapp/stash
-  tag: v0.25.1@sha256:6b8814b61e4fe77bc910bec858dd45e0970c8af6f439c066317ae68f03af4f91
+  tag: v0.27.2@sha256:76648fee66bce1356dbce2de5871205f68f6f3f0
   pullPolicy: IfNotPresent
 securityContext:
   container:
